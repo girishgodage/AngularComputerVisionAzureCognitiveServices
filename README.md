@@ -4,4 +4,4 @@ An Optical Character Recognition (OCR) using Angular and Azure Computer Vision C
 
 # Demo
 
-![ngComputerVision](https://github.com/girishgodage/AngularComputerVisionAzureCognitiveServices/blob/master/Output/output.gif)
+![ngComputerVision](https://github.com/girishgodage/AngularComputerVisionAzureCognitiveServices/blob/main/output/output.gif)
